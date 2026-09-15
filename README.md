@@ -85,6 +85,6 @@ The report includes interactive features to allow users to explore the data dyna
 
 ### Product Analysis
 
-![Product Analysis](Product%20Analysis.png)
+
 
 ![Product Analysis](Product%20Analysis.png)
